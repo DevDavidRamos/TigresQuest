@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TigresQuest</string>
+    <string name="title_activity_inicio_screen">InicioScreen</string>
+    <string name="title_activity_pregunta_screen">PreguntaScreen</string>
+</resources>
